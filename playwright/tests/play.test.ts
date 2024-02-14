@@ -1,12 +1,8 @@
-import { test, expect, chromium} from '@playwright/test';
-import { HomePage }  from '../resources/pageobjects/HomePage';
-import { PlayPage } from '../resources/pageobjects/PlayPage';
+import { test, expect} from '../resources/config/fixtures';
 import { BUILDS } from '../resources/data/globalVariables';
 
 
-test("validateCharacterNamePlaceholder", async ({ page }) =>{
-    const homepage = new HomePage(page);
-    const playpage = new PlayPage(page);
+test("validateCharacterNamePlaceholder", async ({ page , homepage, playpage}) =>{
 
     await page.goto("/");
     await homepage.clickOnPlayButton();   
@@ -16,9 +12,7 @@ test("validateCharacterNamePlaceholder", async ({ page }) =>{
 
 })
 
-test("mandatoryCharacterNameInput", async ({ page }) =>{
-    const homepage = new HomePage(page);
-    const playpage = new PlayPage(page);
+test("mandatoryCharacterNameInput", async ({ page , homepage, playpage}) =>{
 
     await page.goto("/");
     await homepage.clickOnPlayButton();   
@@ -30,10 +24,7 @@ test("mandatoryCharacterNameInput", async ({ page }) =>{
 
 })
 
-test("buildCharacters", async ({ page }) =>{
-    const homepage = new HomePage(page);
-    const playpage = new PlayPage(page);
-    
+test("buildCharacters", async ({ page, homepage, playpage }) =>{
 
     await page.goto("/");
     await homepage.clickOnPlayButton();    
@@ -45,10 +36,7 @@ test("buildCharacters", async ({ page }) =>{
 
 
 
-test("selectBuild", async ({ page }) =>{
-    const homepage = new HomePage(page);
-    const playpage = new PlayPage(page);
-
+test("selectBuild", async ({ page, homepage, playpage }) =>{
     const buildName = ' 123 Test '
 
     await page.goto("/");

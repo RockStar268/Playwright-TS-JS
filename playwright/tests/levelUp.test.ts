@@ -1,14 +1,6 @@
-import { test, expect, chromium} from '@playwright/test';
-import { HomePage } from '../resources/pageobjects/HomePage';
-import { BUILDS } from '../resources/data/globalVariables';
-import { PlayPage } from '../resources/pageobjects/PlayPage';
-import { LevelUpPage } from '../resources/pageobjects/LevelUpPage';
+import { test, expect} from '../resources/config/fixtures';
 
-test("clickToLevelUp", async ({ page }) =>{
-    const homepage = new HomePage(page);
-    const playpage = new PlayPage(page);
-    const levelup = new LevelUpPage(page);
-
+test("clickToLevelUp", async ({ page, homepage, playpage, levelup}) =>{
     await page.goto("/");
     await homepage.clickOnPlayButton();  
 

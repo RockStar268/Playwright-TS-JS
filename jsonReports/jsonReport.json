@@ -11,7 +11,7 @@
     "grepInvert": null,
     "maxFailures": 0,
     "metadata": {
-      "actualWorkers": 3
+      "actualWorkers": 6
     },
     "preserveOutput": "always",
     "reporter": [
@@ -42,8 +42,21 @@
         "outputDir": "/Users/shrkuang/Playwright-TS-JS/test-results",
         "repeatEach": 1,
         "retries": 2,
-        "id": "",
-        "name": "",
+        "id": "chrome",
+        "name": "chrome",
+        "testDir": "/Users/shrkuang/Playwright-TS-JS",
+        "testIgnore": [],
+        "testMatch": [
+          "playwright/tests/*"
+        ],
+        "timeout": 30000
+      },
+      {
+        "outputDir": "/Users/shrkuang/Playwright-TS-JS/test-results",
+        "repeatEach": 1,
+        "retries": 2,
+        "id": "firefox",
+        "name": "firefox",
         "testDir": "/Users/shrkuang/Playwright-TS-JS",
         "testIgnore": [],
         "testMatch": [
@@ -74,27 +87,48 @@
               "timeout": 30000,
               "annotations": [],
               "expectedStatus": "passed",
-              "projectId": "",
-              "projectName": "",
+              "projectId": "chrome",
+              "projectName": "chrome",
               "results": [
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 1167,
+                  "duration": 1302,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-02-14T12:59:25.677Z",
+                  "startTime": "2024-02-14T13:58:39.712Z",
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            },
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "firefox",
+              "projectName": "firefox",
+              "results": [
+                {
+                  "workerIndex": 3,
+                  "status": "passed",
+                  "duration": 2356,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2024-02-14T13:58:39.712Z",
                   "attachments": []
                 }
               ],
               "status": "expected"
             }
           ],
-          "id": "ae863fb240454409d07e-036f74f459518b06af20",
+          "id": "ae863fb240454409d07e-33a8295487a1f74892d2",
           "file": "playwright/tests/levelUp.test.ts",
-          "line": 7,
+          "line": 3,
           "column": 5
         }
       ]
@@ -114,27 +148,48 @@
               "timeout": 30000,
               "annotations": [],
               "expectedStatus": "passed",
-              "projectId": "",
-              "projectName": "",
+              "projectId": "chrome",
+              "projectName": "chrome",
               "results": [
                 {
                   "workerIndex": 1,
                   "status": "passed",
-                  "duration": 1053,
+                  "duration": 1102,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-02-14T12:59:25.677Z",
+                  "startTime": "2024-02-14T13:58:39.712Z",
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            },
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "firefox",
+              "projectName": "firefox",
+              "results": [
+                {
+                  "workerIndex": 4,
+                  "status": "passed",
+                  "duration": 1952,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2024-02-14T13:58:39.714Z",
                   "attachments": []
                 }
               ],
               "status": "expected"
             }
           ],
-          "id": "e252b9bb39dc02142909-2b701e9bbbff72c1d6b8",
+          "id": "e252b9bb39dc02142909-c6a56a4371105a49710d",
           "file": "playwright/tests/login.test.ts",
-          "line": 7,
+          "line": 3,
           "column": 5
         }
       ]
@@ -154,27 +209,48 @@
               "timeout": 30000,
               "annotations": [],
               "expectedStatus": "passed",
-              "projectId": "",
-              "projectName": "",
+              "projectId": "chrome",
+              "projectName": "chrome",
               "results": [
                 {
                   "workerIndex": 2,
                   "status": "passed",
-                  "duration": 1929,
+                  "duration": 2026,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-02-14T12:59:25.678Z",
+                  "startTime": "2024-02-14T13:58:39.713Z",
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            },
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "firefox",
+              "projectName": "firefox",
+              "results": [
+                {
+                  "workerIndex": 5,
+                  "status": "passed",
+                  "duration": 2843,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2024-02-14T13:58:39.718Z",
                   "attachments": []
                 }
               ],
               "status": "expected"
             }
           ],
-          "id": "2ebab98008e16cb3009c-ac11e0038cd8dc2e9cbb",
+          "id": "2ebab98008e16cb3009c-f505b93ac7ac37b6da48",
           "file": "playwright/tests/play.test.ts",
-          "line": 7,
+          "line": 5,
           "column": 5
         },
         {
@@ -186,27 +262,48 @@
               "timeout": 30000,
               "annotations": [],
               "expectedStatus": "passed",
-              "projectId": "",
-              "projectName": "",
+              "projectId": "chrome",
+              "projectName": "chrome",
               "results": [
                 {
                   "workerIndex": 2,
                   "status": "passed",
-                  "duration": 666,
+                  "duration": 815,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-02-14T12:59:27.885Z",
+                  "startTime": "2024-02-14T13:58:42.071Z",
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            },
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "firefox",
+              "projectName": "firefox",
+              "results": [
+                {
+                  "workerIndex": 5,
+                  "status": "passed",
+                  "duration": 567,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2024-02-14T13:58:44.703Z",
                   "attachments": []
                 }
               ],
               "status": "expected"
             }
           ],
-          "id": "2ebab98008e16cb3009c-dd7f02c6e81b5921de5e",
+          "id": "2ebab98008e16cb3009c-a9fb5f9b24b988f46ecc",
           "file": "playwright/tests/play.test.ts",
-          "line": 19,
+          "line": 15,
           "column": 5
         },
         {
@@ -218,27 +315,48 @@
               "timeout": 30000,
               "annotations": [],
               "expectedStatus": "passed",
-              "projectId": "",
-              "projectName": "",
+              "projectId": "chrome",
+              "projectName": "chrome",
               "results": [
                 {
                   "workerIndex": 2,
                   "status": "passed",
-                  "duration": 627,
+                  "duration": 909,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-02-14T12:59:28.552Z",
+                  "startTime": "2024-02-14T13:58:42.887Z",
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            },
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "firefox",
+              "projectName": "firefox",
+              "results": [
+                {
+                  "workerIndex": 5,
+                  "status": "passed",
+                  "duration": 695,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2024-02-14T13:58:45.270Z",
                   "attachments": []
                 }
               ],
               "status": "expected"
             }
           ],
-          "id": "2ebab98008e16cb3009c-c1bd53d3050e9f0fb9ea",
+          "id": "2ebab98008e16cb3009c-7a928dbfe82c7220a9e4",
           "file": "playwright/tests/play.test.ts",
-          "line": 33,
+          "line": 27,
           "column": 5
         },
         {
@@ -250,27 +368,48 @@
               "timeout": 30000,
               "annotations": [],
               "expectedStatus": "passed",
-              "projectId": "",
-              "projectName": "",
+              "projectId": "chrome",
+              "projectName": "chrome",
               "results": [
                 {
                   "workerIndex": 2,
                   "status": "passed",
-                  "duration": 584,
+                  "duration": 679,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-02-14T12:59:29.180Z",
+                  "startTime": "2024-02-14T13:58:43.797Z",
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            },
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "firefox",
+              "projectName": "firefox",
+              "results": [
+                {
+                  "workerIndex": 5,
+                  "status": "passed",
+                  "duration": 627,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2024-02-14T13:58:45.967Z",
                   "attachments": []
                 }
               ],
               "status": "expected"
             }
           ],
-          "id": "2ebab98008e16cb3009c-4fae04a8d5a453db5db0",
+          "id": "2ebab98008e16cb3009c-5c9e584995e565c0e9c5",
           "file": "playwright/tests/play.test.ts",
-          "line": 48,
+          "line": 39,
           "column": 5
         }
       ]
@@ -278,9 +417,9 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2024-02-14T12:59:25.504Z",
-    "duration": 4314.602,
-    "expected": 6,
+    "startTime": "2024-02-14T13:58:39.527Z",
+    "duration": 7311.182,
+    "expected": 12,
     "skipped": 0,
     "unexpected": 0,
     "flaky": 0

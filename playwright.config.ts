@@ -1,6 +1,20 @@
-import type { PlaywrightTestConfig } from "playwright/test";
+import { devices ,PlaywrightTestConfig } from "@playwright/test";
 
 const config: PlaywrightTestConfig = {
+  projects:[
+    {
+      name: "chrome",
+      use: {
+        ...devices["Desktop Chrome"]
+      }
+    },
+    {
+      name: "firefox",
+      use: {
+        ...devices["Desktop Firefox"]
+      }
+    },
+  ],
   testMatch: ["playwright/tests/*"],
   use:{
     baseURL: "https://test-rpg.vercel.app/",
