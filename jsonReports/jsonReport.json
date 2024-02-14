@@ -11,7 +11,7 @@
     "grepInvert": null,
     "maxFailures": 0,
     "metadata": {
-      "actualWorkers": 1
+      "actualWorkers": 3
     },
     "preserveOutput": "always",
     "reporter": [
@@ -60,13 +60,13 @@
   },
   "suites": [
     {
-      "title": "playwright/tests/play.test.ts",
-      "file": "playwright/tests/play.test.ts",
+      "title": "playwright/tests/levelUp.test.ts",
+      "file": "playwright/tests/levelUp.test.ts",
       "column": 0,
       "line": 0,
       "specs": [
         {
-          "title": "selectBuild",
+          "title": "clickToLevelUp",
           "ok": true,
           "tags": [],
           "tests": [
@@ -80,12 +80,188 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 979,
+                  "duration": 1167,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-02-13T19:15:48.774Z",
+                  "startTime": "2024-02-14T12:59:25.677Z",
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "ae863fb240454409d07e-036f74f459518b06af20",
+          "file": "playwright/tests/levelUp.test.ts",
+          "line": 7,
+          "column": 5
+        }
+      ]
+    },
+    {
+      "title": "playwright/tests/login.test.ts",
+      "file": "playwright/tests/login.test.ts",
+      "column": 0,
+      "line": 0,
+      "specs": [
+        {
+          "title": "Login",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 1,
+                  "status": "passed",
+                  "duration": 1053,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2024-02-14T12:59:25.677Z",
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "e252b9bb39dc02142909-2b701e9bbbff72c1d6b8",
+          "file": "playwright/tests/login.test.ts",
+          "line": 7,
+          "column": 5
+        }
+      ]
+    },
+    {
+      "title": "playwright/tests/play.test.ts",
+      "file": "playwright/tests/play.test.ts",
+      "column": 0,
+      "line": 0,
+      "specs": [
+        {
+          "title": "validateCharacterNamePlaceholder",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "status": "passed",
+                  "duration": 1929,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2024-02-14T12:59:25.678Z",
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "2ebab98008e16cb3009c-ac11e0038cd8dc2e9cbb",
+          "file": "playwright/tests/play.test.ts",
+          "line": 7,
+          "column": 5
+        },
+        {
+          "title": "mandatoryCharacterNameInput",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "status": "passed",
+                  "duration": 666,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2024-02-14T12:59:27.885Z",
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "2ebab98008e16cb3009c-dd7f02c6e81b5921de5e",
+          "file": "playwright/tests/play.test.ts",
+          "line": 19,
+          "column": 5
+        },
+        {
+          "title": "buildCharacters",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "status": "passed",
+                  "duration": 627,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2024-02-14T12:59:28.552Z",
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "2ebab98008e16cb3009c-c1bd53d3050e9f0fb9ea",
+          "file": "playwright/tests/play.test.ts",
+          "line": 33,
+          "column": 5
+        },
+        {
+          "title": "selectBuild",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "",
+              "projectName": "",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "status": "passed",
+                  "duration": 584,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2024-02-14T12:59:29.180Z",
                   "attachments": []
                 }
               ],
@@ -94,7 +270,7 @@
           ],
           "id": "2ebab98008e16cb3009c-4fae04a8d5a453db5db0",
           "file": "playwright/tests/play.test.ts",
-          "line": 81,
+          "line": 48,
           "column": 5
         }
       ]
@@ -102,9 +278,9 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2024-02-13T19:15:48.622Z",
-    "duration": 1390.789,
-    "expected": 1,
+    "startTime": "2024-02-14T12:59:25.504Z",
+    "duration": 4314.602,
+    "expected": 6,
     "skipped": 0,
     "unexpected": 0,
     "flaky": 0

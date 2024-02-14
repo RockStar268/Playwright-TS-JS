@@ -1,18 +1,21 @@
-import { Page } from 'playwright';
-import { expect} from '@playwright/test';
+import { expect, type Locator, type Page } from '@playwright/test';
+
 export class HomePage {
-    readonly playButton = 'Click here to play';
-    readonly githubButton = 'View on Github';
-    readonly yourCharacter = '//h3[@data-testid="character-name"]';
+    readonly page : Page;
+    readonly playButton : Locator; 
+    readonly githubButton : Locator;
 
-    constructor( private page: Page) {}
-
-    async clickOnPlay() {
-        await this.page.getByText(this.playButton).click();
+    constructor( page: Page) {
+        this.page = page;
+        this.playButton = page.getByText('Click here to play');
+        this.githubButton = page.getByText('View on Github');
+    }
+    async clickOnPlayButton() {
+        await this.playButton.click();
     }
 
-    async viewGithub(){
-        await this.page.click(this.githubButton)
+    async clcikOnViewGithubButton(){
+        await this.githubButton.click();
     }
     
 }

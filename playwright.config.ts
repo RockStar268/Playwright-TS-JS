@@ -3,6 +3,7 @@ import type { PlaywrightTestConfig } from "playwright/test";
 const config: PlaywrightTestConfig = {
   testMatch: ["playwright/tests/*"],
   use:{
+    baseURL: "https://test-rpg.vercel.app/",
     headless: false,
     screenshot: "only-on-failure",
     video: "retain-on-failure",
