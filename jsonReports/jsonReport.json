@@ -73,6 +73,128 @@
   },
   "suites": [
     {
+      "title": "playwright/tests/api-builds.test.ts",
+      "file": "playwright/tests/api-builds.test.ts",
+      "column": 0,
+      "line": 0,
+      "specs": [
+        {
+          "title": "GET Builds endpoint",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "chrome",
+              "projectName": "chrome",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "status": "passed",
+                  "duration": 362,
+                  "errors": [],
+                  "stdout": [
+                    {
+                      "text": "{\n  thief: {\n    weapon: \u001b[32m'knife'\u001b[39m,\n    upgradedWeapon: \u001b[32m'katana'\u001b[39m,\n    armor: \u001b[32m'leather_armor'\u001b[39m,\n    upgradedArmor: \u001b[32m'silver_armor'\u001b[39m,\n    strength: \u001b[33m1\u001b[39m,\n    agility: \u001b[33m6\u001b[39m,\n    wisdom: \u001b[33m2\u001b[39m,\n    magic: \u001b[33m1\u001b[39m\n  },\n  knight: {\n    weapon: \u001b[32m'knife'\u001b[39m,\n    upgradedWeapon: \u001b[32m'longsword'\u001b[39m,\n    armor: \u001b[32m'partial_plate'\u001b[39m,\n    upgradedArmor: \u001b[32m'full_plate'\u001b[39m,\n    strength: \u001b[33m6\u001b[39m,\n    agility: \u001b[33m2\u001b[39m,\n    wisdom: \u001b[33m1\u001b[39m,\n    magic: \u001b[33m1\u001b[39m\n  },\n  mage: {\n    weapon: \u001b[32m'staff'\u001b[39m,\n    upgradedWeapon: \u001b[32m'staff'\u001b[39m,\n    armor: \u001b[32m'cloak'\u001b[39m,\n    upgradedArmor: \u001b[32m'silver_armor'\u001b[39m,\n    strength: \u001b[33m0\u001b[39m,\n    agility: \u001b[33m1\u001b[39m,\n    wisdom: \u001b[33m3\u001b[39m,\n    magic: \u001b[33m6\u001b[39m\n  },\n  brigadier: {\n    weapon: \u001b[32m'bronze_mace'\u001b[39m,\n    upgradedWeapon: \u001b[32m'hammer'\u001b[39m,\n    armor: \u001b[32m'brigadier_armor'\u001b[39m,\n    upgradedArmor: \u001b[32m'silver_armor'\u001b[39m,\n    strength: \u001b[33m3\u001b[39m,\n    agility: \u001b[33m1\u001b[39m,\n    wisdom: \u001b[33m6\u001b[39m,\n    magic: \u001b[33m1\u001b[39m\n  }\n}\n"
+                    }
+                  ],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2024-04-02T15:12:54.465Z",
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            },
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "firefox",
+              "projectName": "firefox",
+              "results": [
+                {
+                  "workerIndex": 4,
+                  "status": "passed",
+                  "duration": 360,
+                  "errors": [],
+                  "stdout": [
+                    {
+                      "text": "{\n  thief: {\n    weapon: \u001b[32m'knife'\u001b[39m,\n    upgradedWeapon: \u001b[32m'katana'\u001b[39m,\n    armor: \u001b[32m'leather_armor'\u001b[39m,\n    upgradedArmor: \u001b[32m'silver_armor'\u001b[39m,\n    strength: \u001b[33m1\u001b[39m,\n    agility: \u001b[33m6\u001b[39m,\n    wisdom: \u001b[33m2\u001b[39m,\n    magic: \u001b[33m1\u001b[39m\n  },\n  knight: {\n    weapon: \u001b[32m'knife'\u001b[39m,\n    upgradedWeapon: \u001b[32m'longsword'\u001b[39m,\n    armor: \u001b[32m'partial_plate'\u001b[39m,\n    upgradedArmor: \u001b[32m'full_plate'\u001b[39m,\n    strength: \u001b[33m6\u001b[39m,\n    agility: \u001b[33m2\u001b[39m,\n    wisdom: \u001b[33m1\u001b[39m,\n    magic: \u001b[33m1\u001b[39m\n  },\n  mage: {\n    weapon: \u001b[32m'staff'\u001b[39m,\n    upgradedWeapon: \u001b[32m'staff'\u001b[39m,\n    armor: \u001b[32m'cloak'\u001b[39m,\n    upgradedArmor: \u001b[32m'silver_armor'\u001b[39m,\n    strength: \u001b[33m0\u001b[39m,\n    agility: \u001b[33m1\u001b[39m,\n    wisdom: \u001b[33m3\u001b[39m,\n    magic: \u001b[33m6\u001b[39m\n  },\n  brigadier: {\n    weapon: \u001b[32m'bronze_mace'\u001b[39m,\n    upgradedWeapon: \u001b[32m'hammer'\u001b[39m,\n    armor: \u001b[32m'brigadier_armor'\u001b[39m,\n    upgradedArmor: \u001b[32m'silver_armor'\u001b[39m,\n    strength: \u001b[33m3\u001b[39m,\n    agility: \u001b[33m1\u001b[39m,\n    wisdom: \u001b[33m6\u001b[39m,\n    magic: \u001b[33m1\u001b[39m\n  }\n}\n"
+                    }
+                  ],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2024-04-02T15:12:54.465Z",
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "428847cbfb989d16a29c-5e4521667790d1f6a093",
+          "file": "playwright/tests/api-builds.test.ts",
+          "line": 5,
+          "column": 5
+        },
+        {
+          "title": "Validate JSON schema",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "chrome",
+              "projectName": "chrome",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "status": "passed",
+                  "duration": 457,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2024-04-02T15:12:54.829Z",
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            },
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "firefox",
+              "projectName": "firefox",
+              "results": [
+                {
+                  "workerIndex": 4,
+                  "status": "passed",
+                  "duration": 464,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2024-04-02T15:12:54.825Z",
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "428847cbfb989d16a29c-45fec9da213a04182e90",
+          "file": "playwright/tests/api-builds.test.ts",
+          "line": 19,
+          "column": 5
+        }
+      ]
+    },
+    {
       "title": "playwright/tests/levelUp.test.ts",
       "file": "playwright/tests/levelUp.test.ts",
       "column": 0,
@@ -91,14 +213,14 @@
               "projectName": "chrome",
               "results": [
                 {
-                  "workerIndex": 0,
+                  "workerIndex": 1,
                   "status": "passed",
-                  "duration": 1302,
+                  "duration": 2253,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-02-14T13:58:39.712Z",
+                  "startTime": "2024-04-02T15:12:54.451Z",
                   "attachments": []
                 }
               ],
@@ -112,14 +234,14 @@
               "projectName": "firefox",
               "results": [
                 {
-                  "workerIndex": 3,
+                  "workerIndex": 5,
                   "status": "passed",
-                  "duration": 2356,
+                  "duration": 2022,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-02-14T13:58:39.712Z",
+                  "startTime": "2024-04-02T15:12:54.451Z",
                   "attachments": []
                 }
               ],
@@ -152,14 +274,14 @@
               "projectName": "chrome",
               "results": [
                 {
-                  "workerIndex": 1,
+                  "workerIndex": 2,
                   "status": "passed",
-                  "duration": 1102,
+                  "duration": 1739,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-02-14T13:58:39.712Z",
+                  "startTime": "2024-04-02T15:12:54.451Z",
                   "attachments": []
                 }
               ],
@@ -173,14 +295,14 @@
               "projectName": "firefox",
               "results": [
                 {
-                  "workerIndex": 4,
+                  "workerIndex": 6,
                   "status": "passed",
-                  "duration": 1952,
+                  "duration": 1509,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-02-14T13:58:39.714Z",
+                  "startTime": "2024-04-02T15:12:55.545Z",
                   "attachments": []
                 }
               ],
@@ -213,14 +335,14 @@
               "projectName": "chrome",
               "results": [
                 {
-                  "workerIndex": 2,
+                  "workerIndex": 3,
                   "status": "passed",
-                  "duration": 2026,
+                  "duration": 2509,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-02-14T13:58:39.713Z",
+                  "startTime": "2024-04-02T15:12:54.454Z",
                   "attachments": []
                 }
               ],
@@ -234,14 +356,14 @@
               "projectName": "firefox",
               "results": [
                 {
-                  "workerIndex": 5,
+                  "workerIndex": 4,
                   "status": "passed",
-                  "duration": 2843,
+                  "duration": 2356,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-02-14T13:58:39.718Z",
+                  "startTime": "2024-04-02T15:12:55.294Z",
                   "attachments": []
                 }
               ],
@@ -266,14 +388,14 @@
               "projectName": "chrome",
               "results": [
                 {
-                  "workerIndex": 2,
+                  "workerIndex": 3,
                   "status": "passed",
-                  "duration": 815,
+                  "duration": 1032,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-02-14T13:58:42.071Z",
+                  "startTime": "2024-04-02T15:12:57.308Z",
                   "attachments": []
                 }
               ],
@@ -287,14 +409,14 @@
               "projectName": "firefox",
               "results": [
                 {
-                  "workerIndex": 5,
+                  "workerIndex": 4,
                   "status": "passed",
-                  "duration": 567,
+                  "duration": 1401,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-02-14T13:58:44.703Z",
+                  "startTime": "2024-04-02T15:12:58.104Z",
                   "attachments": []
                 }
               ],
@@ -319,14 +441,14 @@
               "projectName": "chrome",
               "results": [
                 {
-                  "workerIndex": 2,
+                  "workerIndex": 3,
                   "status": "passed",
-                  "duration": 909,
+                  "duration": 1296,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-02-14T13:58:42.887Z",
+                  "startTime": "2024-04-02T15:12:58.341Z",
                   "attachments": []
                 }
               ],
@@ -340,14 +462,14 @@
               "projectName": "firefox",
               "results": [
                 {
-                  "workerIndex": 5,
+                  "workerIndex": 4,
                   "status": "passed",
-                  "duration": 695,
+                  "duration": 1391,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-02-14T13:58:45.270Z",
+                  "startTime": "2024-04-02T15:12:59.505Z",
                   "attachments": []
                 }
               ],
@@ -372,14 +494,14 @@
               "projectName": "chrome",
               "results": [
                 {
-                  "workerIndex": 2,
+                  "workerIndex": 3,
                   "status": "passed",
-                  "duration": 679,
+                  "duration": 1023,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-02-14T13:58:43.797Z",
+                  "startTime": "2024-04-02T15:12:59.638Z",
                   "attachments": []
                 }
               ],
@@ -393,14 +515,14 @@
               "projectName": "firefox",
               "results": [
                 {
-                  "workerIndex": 5,
+                  "workerIndex": 4,
                   "status": "passed",
-                  "duration": 627,
+                  "duration": 1424,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-02-14T13:58:45.967Z",
+                  "startTime": "2024-04-02T15:13:00.897Z",
                   "attachments": []
                 }
               ],
@@ -417,9 +539,9 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2024-02-14T13:58:39.527Z",
-    "duration": 7311.182,
-    "expected": 12,
+    "startTime": "2024-04-02T15:12:54.260Z",
+    "duration": 8292.364,
+    "expected": 16,
     "skipped": 0,
     "unexpected": 0,
     "flaky": 0
