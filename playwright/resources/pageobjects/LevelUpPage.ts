@@ -13,17 +13,14 @@ export class LevelUpPage{
         this.clickLevelUpMessage = page.locator('//span[@data-task="clicker"]');
     }
 
-    async clickButtonToLevelUp(){
+    async clickButtonToLevelUp(j: number){
         if (await this.clickLevelUpButton.isVisible()){
-            let i;
-            for(i=5; i>0; i--){
-                await expect(this.clickLevelUpButton).toBeEnabled()
-                await this.clickLevelUpButton.click();
+            if( j > 5){
+                throw new Error('ERROR: Click button input is greater than 5');
             }
-            await expect(this.clickLevelUpButton).toBeDisabled();
-            await expect(this.clickLevelUpMessage.textContent()).resolves.toBe('Great job! You levelled up');
-        }
-    }
-
-    
-}
+            else{
+                for(let i=j; i>0; i--){
+                    await expect(this.clickLevelUpButton).toBeEnabled()
+                    await this.clickLevelUpButton.click();
+            }}
+    }}}

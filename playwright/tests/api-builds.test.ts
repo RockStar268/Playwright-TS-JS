@@ -169,3 +169,23 @@ test("POST /api/builds exceeds max stats value", async({ request }) =>{
     expect(postResponse.status()).toBe(400);
     expect(postResponseBody.error[0].message).toEqual(errorMessages.exceedMaxValueStats);
 })
+
+
+test("POST /api/builds use existing name", async({ request }) =>{
+    const newCharacter = {
+        "build": {
+          "name": "mage",
+          "strength": 5,
+          "agility": 3.5,
+          "wisdom": 2.5,
+          "magic": 1
+        }
+      }
+    const postResponse = await request.post(buildURL, {
+        data: newCharacter
+    })
+    const postResponseBody = await postResponse.json()
+
+    expect(postResponse.status()).toBe(400);
+    expect(postResponseBody.error[0].message).toEqual(errorMessages.nameExists);
+})
