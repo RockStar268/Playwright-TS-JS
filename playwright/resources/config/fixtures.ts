@@ -1,5 +1,3 @@
-import { chromium, firefox, webkit, Browser, Page, BrowserContext } from 'playwright';
-import {  BROWSER } from '../data/globalVariables'; 
 import { test as baseTest} from "@playwright/test";
 import { LevelUpPage } from '../pageobjects/LevelUpPage';
 import { PlayPage } from '../pageobjects/PlayPage';

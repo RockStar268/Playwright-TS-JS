@@ -10,3 +10,6 @@ npm install
 
 To run the tests in this repo, open your terminal in your IDE and run the following command: 
 npm test
+
+To run ESLint:
+npx eslint . --ext .js,.ts   

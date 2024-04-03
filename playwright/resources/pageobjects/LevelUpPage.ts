@@ -1,5 +1,5 @@
 import { expect, type Locator, type Page } from '@playwright/test';
-import { BUILDS } from '../data/globalVariables';
+
 
 export class LevelUpPage{
     readonly page : Page;

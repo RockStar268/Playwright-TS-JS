@@ -1,4 +1,4 @@
-import { test, expect} from '../resources/config/fixtures';
+import { test } from '../resources/config/fixtures';
 
 test("clickToLevelUp", async ({ page, homepage, playpage, levelup}) =>{
     await page.goto("/");

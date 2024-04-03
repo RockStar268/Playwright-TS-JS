@@ -5,7 +5,13 @@
   },
   "devDependencies": {
     "@playwright/test": "^1.41.2",
-    "@types/node": "^20.11.17"
+    "@types/eslint__js": "^8.42.3",
+    "@types/node": "^20.11.17",
+    "@typescript-eslint/eslint-plugin": "^7.5.0",
+    "@typescript-eslint/parser": "^7.5.0",
+    "eslint": "^8.57.0",
+    "typescript": "^5.4.3",
+    "typescript-eslint": "^7.5.0"
   },
   "scripts": {
     "test": "npx playwright test"
