@@ -3,24 +3,24 @@ import { expect, type Locator, type Page } from '@playwright/test';
 
 export class LevelUpPage{
     readonly page : Page;
-    readonly clickLevelUpButton : Locator;
-    readonly clickLevelUpMessage : Locator; 
+    readonly LevelUpButton : Locator;
+    readonly LevelUpMessage : Locator; 
 
 
     constructor( page: Page){
         this.page = page;
-        this.clickLevelUpButton = page.locator('//button[text()="Click me "]');
-        this.clickLevelUpMessage = page.locator('//span[@data-task="clicker"]');
+        this.LevelUpButton = page.locator('//button[text()="Click me "]');
+        this.LevelUpMessage = page.locator('//span[@data-task="clicker"]');
     }
 
     async clickButtonToLevelUp(j: number){
-        if (await this.clickLevelUpButton.isVisible()){
+        if (await this.LevelUpButton.isVisible()){
             if( j > 5){
                 throw new Error('ERROR: Click button input is greater than 5');
             }
             else{
                 for(let i=j; i>0; i--){
-                    await expect(this.clickLevelUpButton).toBeEnabled()
-                    await this.clickLevelUpButton.click();
+                    await expect(this.LevelUpButton).toBeEnabled()
+                    await this.LevelUpButton.click();
             }}
     }}}

@@ -11,8 +11,8 @@ test("Click 5 times to level up", async ({ page, homepage, playpage, levelup}) =
     await playpage.clickStartButton();
 
     await levelup.clickButtonToLevelUp(5);
-    await expect(levelup.clickLevelUpButton).toBeDisabled();
-    await expect(levelup.clickLevelUpMessage.textContent()).resolves.toBe(levelUpMessage.clickButton);
+    await expect(levelup.LevelUpButton).toBeDisabled();
+    await expect(levelup.LevelUpMessage.textContent()).resolves.toBe(levelUpMessage.clickButton);
     
 })
 
@@ -26,8 +26,8 @@ test("Click 4 times and no level up", async ({ page, homepage, playpage, levelup
     await playpage.clickStartButton();
 
     await levelup.clickButtonToLevelUp(4);
-    await expect(levelup.clickLevelUpButton).toBeEnabled();
-    await expect(levelup.clickLevelUpMessage).not.toBeVisible();
+    await expect(levelup.LevelUpButton).toBeEnabled();
+    await expect(levelup.LevelUpMessage).not.toBeVisible();
     
 })
 
