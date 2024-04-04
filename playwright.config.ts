@@ -18,7 +18,7 @@ const config: PlaywrightTestConfig = {
   testMatch: ["playwright/tests/*"],
   use:{
     baseURL: "https://test-rpg.vercel.app/",
-    headless: false,
+    headless: true,
     screenshot: "only-on-failure",
     video: "retain-on-failure",
     // launchOptions:{   uncomment this if u want it to be executed slower than default speed

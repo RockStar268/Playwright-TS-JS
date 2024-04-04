@@ -3,14 +3,14 @@ import { BUILDS } from '../resources/data/globalVariables';
 import { errorMessages } from '../resources/enums/errorMessages';
 
 
-test("validateCharacterNamePlaceholder", async ({ page , homepage, playpage}) =>{
+test("Character Name Input Field Placeholder Validation", async ({ page , homepage, playpage}) =>{
     await page.goto("/");
     await homepage.clickOnPlayButton();   
     await expect(playpage.characterNameInput).toBeVisible();  // element is located by placeholder
 })
 
 
-test("mandatoryCharacterNameInput", async ({ page , homepage, playpage}) =>{
+test("Character Name Field Mandatory", async ({ page , homepage, playpage}) =>{
     await page.goto("/");
     await homepage.clickOnPlayButton();   
     await expect(playpage.minCharErrorMessage).not.toBeVisible();
