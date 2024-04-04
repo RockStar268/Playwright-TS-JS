@@ -38,7 +38,7 @@ for (const buildName of charName){
             await expect(playpage.maxCharErrorMessage.textContent()).resolves.toBe(errorMessages.characterNameMaxCharacter);
         }
         else{
-            expect(levelup.LevelUpButton).toBeTruthy();
+            expect(levelup.clickItButton).toBeTruthy();
         }
     })
 }

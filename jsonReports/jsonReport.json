@@ -93,12 +93,12 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 1052,
+                  "duration": 593,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-04-03T12:57:48.911Z",
+                  "startTime": "2024-04-04T09:13:03.542Z",
                   "attachments": []
                 }
               ],
@@ -112,14 +112,14 @@
               "projectName": "firefox",
               "results": [
                 {
-                  "workerIndex": 4,
+                  "workerIndex": 5,
                   "status": "passed",
-                  "duration": 975,
+                  "duration": 280,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-04-03T12:57:48.911Z",
+                  "startTime": "2024-04-04T09:13:03.541Z",
                   "attachments": []
                 }
               ],
@@ -146,12 +146,12 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 233,
+                  "duration": 182,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-04-03T12:57:49.965Z",
+                  "startTime": "2024-04-04T09:13:04.136Z",
                   "attachments": []
                 }
               ],
@@ -165,14 +165,14 @@
               "projectName": "firefox",
               "results": [
                 {
-                  "workerIndex": 4,
+                  "workerIndex": 5,
                   "status": "passed",
-                  "duration": 221,
+                  "duration": 346,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-04-03T12:57:49.887Z",
+                  "startTime": "2024-04-04T09:13:03.823Z",
                   "attachments": []
                 }
               ],
@@ -199,12 +199,12 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 178,
+                  "duration": 188,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-04-03T12:57:50.199Z",
+                  "startTime": "2024-04-04T09:13:04.319Z",
                   "attachments": []
                 }
               ],
@@ -218,14 +218,14 @@
               "projectName": "firefox",
               "results": [
                 {
-                  "workerIndex": 4,
+                  "workerIndex": 5,
                   "status": "passed",
-                  "duration": 210,
+                  "duration": 184,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-04-03T12:57:50.109Z",
+                  "startTime": "2024-04-04T09:13:04.169Z",
                   "attachments": []
                 }
               ],
@@ -252,12 +252,12 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 206,
+                  "duration": 179,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-04-03T12:57:50.377Z",
+                  "startTime": "2024-04-04T09:13:04.508Z",
                   "attachments": []
                 }
               ],
@@ -271,14 +271,14 @@
               "projectName": "firefox",
               "results": [
                 {
-                  "workerIndex": 4,
+                  "workerIndex": 5,
                   "status": "passed",
-                  "duration": 170,
+                  "duration": 197,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-04-03T12:57:50.320Z",
+                  "startTime": "2024-04-04T09:13:04.354Z",
                   "attachments": []
                 }
               ],
@@ -305,12 +305,12 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 181,
+                  "duration": 194,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-04-03T12:57:50.583Z",
+                  "startTime": "2024-04-04T09:13:04.688Z",
                   "attachments": []
                 }
               ],
@@ -324,14 +324,14 @@
               "projectName": "firefox",
               "results": [
                 {
-                  "workerIndex": 4,
+                  "workerIndex": 5,
                   "status": "passed",
-                  "duration": 215,
+                  "duration": 189,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-04-03T12:57:50.491Z",
+                  "startTime": "2024-04-04T09:13:04.552Z",
                   "attachments": []
                 }
               ],
@@ -358,12 +358,12 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 209,
+                  "duration": 191,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-04-03T12:57:50.766Z",
+                  "startTime": "2024-04-04T09:13:04.882Z",
                   "attachments": []
                 }
               ],
@@ -377,14 +377,14 @@
               "projectName": "firefox",
               "results": [
                 {
-                  "workerIndex": 4,
+                  "workerIndex": 5,
                   "status": "passed",
-                  "duration": 191,
+                  "duration": 249,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-04-03T12:57:50.707Z",
+                  "startTime": "2024-04-04T09:13:04.741Z",
                   "attachments": []
                 }
               ],
@@ -411,12 +411,12 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 197,
+                  "duration": 189,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-04-03T12:57:50.976Z",
+                  "startTime": "2024-04-04T09:13:05.074Z",
                   "attachments": []
                 }
               ],
@@ -430,14 +430,14 @@
               "projectName": "firefox",
               "results": [
                 {
-                  "workerIndex": 4,
+                  "workerIndex": 5,
                   "status": "passed",
-                  "duration": 182,
+                  "duration": 179,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-04-03T12:57:50.899Z",
+                  "startTime": "2024-04-04T09:13:04.991Z",
                   "attachments": []
                 }
               ],
@@ -452,8 +452,8 @@
       ]
     },
     {
-      "title": "playwright/tests/levelUp.test.ts",
-      "file": "playwright/tests/levelUp.test.ts",
+      "title": "playwright/tests/clickIt.test.ts",
+      "file": "playwright/tests/clickIt.test.ts",
       "column": 0,
       "line": 0,
       "specs": [
@@ -472,12 +472,12 @@
                 {
                   "workerIndex": 1,
                   "status": "passed",
-                  "duration": 1291,
+                  "duration": 1461,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-04-03T12:57:48.903Z",
+                  "startTime": "2024-04-04T09:13:03.534Z",
                   "attachments": []
                 }
               ],
@@ -491,23 +491,23 @@
               "projectName": "firefox",
               "results": [
                 {
-                  "workerIndex": 5,
+                  "workerIndex": 6,
                   "status": "passed",
-                  "duration": 1484,
+                  "duration": 2241,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-04-03T12:57:48.897Z",
+                  "startTime": "2024-04-04T09:13:05.412Z",
                   "attachments": []
                 }
               ],
               "status": "expected"
             }
           ],
-          "id": "ae863fb240454409d07e-20918e394174c65d4184",
-          "file": "playwright/tests/levelUp.test.ts",
-          "line": 4,
+          "id": "7a1a1d7ff0ebcd89a16c-bf93ca79a1eb699dc24c",
+          "file": "playwright/tests/clickIt.test.ts",
+          "line": 9,
           "column": 5
         },
         {
@@ -525,12 +525,12 @@
                 {
                   "workerIndex": 1,
                   "status": "passed",
-                  "duration": 1009,
+                  "duration": 1257,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-04-03T12:57:50.549Z",
+                  "startTime": "2024-04-04T09:13:05.412Z",
                   "attachments": []
                 }
               ],
@@ -544,23 +544,23 @@
               "projectName": "firefox",
               "results": [
                 {
-                  "workerIndex": 5,
+                  "workerIndex": 6,
                   "status": "passed",
-                  "duration": 959,
+                  "duration": 971,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-04-03T12:57:50.986Z",
+                  "startTime": "2024-04-04T09:13:08.118Z",
                   "attachments": []
                 }
               ],
               "status": "expected"
             }
           ],
-          "id": "ae863fb240454409d07e-979ad5bb011d61400a6c",
-          "file": "playwright/tests/levelUp.test.ts",
-          "line": 20,
+          "id": "7a1a1d7ff0ebcd89a16c-af76ece4958a22a2d752",
+          "file": "playwright/tests/clickIt.test.ts",
+          "line": 25,
           "column": 5
         },
         {
@@ -578,12 +578,12 @@
                 {
                   "workerIndex": 1,
                   "status": "passed",
-                  "duration": 1049,
+                  "duration": 1280,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-04-03T12:57:51.559Z",
+                  "startTime": "2024-04-04T09:13:06.670Z",
                   "attachments": []
                 }
               ],
@@ -597,23 +597,23 @@
               "projectName": "firefox",
               "results": [
                 {
-                  "workerIndex": 5,
+                  "workerIndex": 6,
                   "status": "passed",
-                  "duration": 847,
+                  "duration": 724,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-04-03T12:57:51.946Z",
+                  "startTime": "2024-04-04T09:13:09.091Z",
                   "attachments": []
                 }
               ],
               "status": "expected"
             }
           ],
-          "id": "ae863fb240454409d07e-8a829558acea44416b4f",
-          "file": "playwright/tests/levelUp.test.ts",
-          "line": 34,
+          "id": "7a1a1d7ff0ebcd89a16c-0d2c7536a273790828d2",
+          "file": "playwright/tests/clickIt.test.ts",
+          "line": 40,
           "column": 5
         }
       ]
@@ -639,12 +639,12 @@
                 {
                   "workerIndex": 2,
                   "status": "passed",
-                  "duration": 1145,
+                  "duration": 1144,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-04-03T12:57:48.902Z",
+                  "startTime": "2024-04-04T09:13:03.526Z",
                   "attachments": []
                 }
               ],
@@ -658,14 +658,14 @@
               "projectName": "firefox",
               "results": [
                 {
-                  "workerIndex": 6,
+                  "workerIndex": 5,
                   "status": "passed",
-                  "duration": 1397,
+                  "duration": 1921,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-04-03T12:57:50.647Z",
+                  "startTime": "2024-04-04T09:13:05.172Z",
                   "attachments": []
                 }
               ],
@@ -700,12 +700,12 @@
                 {
                   "workerIndex": 3,
                   "status": "passed",
-                  "duration": 1390,
+                  "duration": 1480,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-04-03T12:57:48.899Z",
+                  "startTime": "2024-04-04T09:13:03.530Z",
                   "attachments": []
                 }
               ],
@@ -719,14 +719,14 @@
               "projectName": "firefox",
               "results": [
                 {
-                  "workerIndex": 4,
+                  "workerIndex": 7,
                   "status": "passed",
-                  "duration": 1492,
+                  "duration": 2020,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-04-03T12:57:51.086Z",
+                  "startTime": "2024-04-04T09:13:05.582Z",
                   "attachments": []
                 }
               ],
@@ -753,12 +753,12 @@
                 {
                   "workerIndex": 3,
                   "status": "passed",
-                  "duration": 842,
+                  "duration": 922,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-04-03T12:57:50.634Z",
+                  "startTime": "2024-04-04T09:13:05.424Z",
                   "attachments": []
                 }
               ],
@@ -772,14 +772,14 @@
               "projectName": "firefox",
               "results": [
                 {
-                  "workerIndex": 4,
+                  "workerIndex": 7,
                   "status": "passed",
-                  "duration": 691,
+                  "duration": 704,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-04-03T12:57:53.005Z",
+                  "startTime": "2024-04-04T09:13:08.049Z",
                   "attachments": []
                 }
               ],
@@ -806,12 +806,12 @@
                 {
                   "workerIndex": 3,
                   "status": "passed",
-                  "duration": 1012,
+                  "duration": 1240,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-04-03T12:57:51.477Z",
+                  "startTime": "2024-04-04T09:13:06.348Z",
                   "attachments": []
                 }
               ],
@@ -825,14 +825,14 @@
               "projectName": "firefox",
               "results": [
                 {
-                  "workerIndex": 4,
+                  "workerIndex": 7,
                   "status": "passed",
-                  "duration": 562,
+                  "duration": 742,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-04-03T12:57:53.697Z",
+                  "startTime": "2024-04-04T09:13:08.754Z",
                   "attachments": []
                 }
               ],
@@ -859,12 +859,12 @@
                 {
                   "workerIndex": 3,
                   "status": "passed",
-                  "duration": 719,
+                  "duration": 872,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-04-03T12:57:52.489Z",
+                  "startTime": "2024-04-04T09:13:07.590Z",
                   "attachments": []
                 }
               ],
@@ -878,14 +878,14 @@
               "projectName": "firefox",
               "results": [
                 {
-                  "workerIndex": 4,
+                  "workerIndex": 7,
                   "status": "passed",
-                  "duration": 571,
+                  "duration": 673,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-04-03T12:57:54.260Z",
+                  "startTime": "2024-04-04T09:13:09.497Z",
                   "attachments": []
                 }
               ],
@@ -912,12 +912,12 @@
                 {
                   "workerIndex": 3,
                   "status": "passed",
-                  "duration": 1398,
+                  "duration": 708,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-04-03T12:57:53.209Z",
+                  "startTime": "2024-04-04T09:13:08.462Z",
                   "attachments": []
                 }
               ],
@@ -931,14 +931,14 @@
               "projectName": "firefox",
               "results": [
                 {
-                  "workerIndex": 4,
+                  "workerIndex": 7,
                   "status": "passed",
-                  "duration": 552,
+                  "duration": 663,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-04-03T12:57:54.832Z",
+                  "startTime": "2024-04-04T09:13:10.171Z",
                   "attachments": []
                 }
               ],
@@ -965,12 +965,12 @@
                 {
                   "workerIndex": 3,
                   "status": "passed",
-                  "duration": 804,
+                  "duration": 762,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-04-03T12:57:54.608Z",
+                  "startTime": "2024-04-04T09:13:09.171Z",
                   "attachments": []
                 }
               ],
@@ -984,14 +984,14 @@
               "projectName": "firefox",
               "results": [
                 {
-                  "workerIndex": 4,
+                  "workerIndex": 7,
                   "status": "passed",
-                  "duration": 566,
+                  "duration": 643,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-04-03T12:57:55.384Z",
+                  "startTime": "2024-04-04T09:13:10.834Z",
                   "attachments": []
                 }
               ],
@@ -1018,12 +1018,12 @@
                 {
                   "workerIndex": 3,
                   "status": "passed",
-                  "duration": 677,
+                  "duration": 663,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-04-03T12:57:55.413Z",
+                  "startTime": "2024-04-04T09:13:09.934Z",
                   "attachments": []
                 }
               ],
@@ -1037,14 +1037,14 @@
               "projectName": "firefox",
               "results": [
                 {
-                  "workerIndex": 4,
+                  "workerIndex": 7,
                   "status": "passed",
-                  "duration": 555,
+                  "duration": 594,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-04-03T12:57:55.952Z",
+                  "startTime": "2024-04-04T09:13:11.478Z",
                   "attachments": []
                 }
               ],
@@ -1071,12 +1071,12 @@
                 {
                   "workerIndex": 3,
                   "status": "passed",
-                  "duration": 686,
+                  "duration": 710,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-04-03T12:57:56.090Z",
+                  "startTime": "2024-04-04T09:13:10.598Z",
                   "attachments": []
                 }
               ],
@@ -1090,14 +1090,14 @@
               "projectName": "firefox",
               "results": [
                 {
-                  "workerIndex": 4,
+                  "workerIndex": 7,
                   "status": "passed",
-                  "duration": 619,
+                  "duration": 597,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-04-03T12:57:56.508Z",
+                  "startTime": "2024-04-04T09:13:12.072Z",
                   "attachments": []
                 }
               ],
@@ -1110,15 +1110,188 @@
           "column": 5
         }
       ]
+    },
+    {
+      "title": "playwright/tests/upload.test.ts",
+      "file": "playwright/tests/upload.test.ts",
+      "column": 0,
+      "line": 0,
+      "specs": [
+        {
+          "title": "Upload File to level up",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "chrome",
+              "projectName": "chrome",
+              "results": [
+                {
+                  "workerIndex": 4,
+                  "status": "passed",
+                  "duration": 1426,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2024-04-04T09:13:03.527Z",
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            },
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "firefox",
+              "projectName": "firefox",
+              "results": [
+                {
+                  "workerIndex": 8,
+                  "status": "failed",
+                  "duration": 10320,
+                  "error": {
+                    "message": "Error: locator.setInputFiles: Target page, context or browser has been closed\nCall log:\n  \u001b[2m- waiting for locator('//input[@type=\"file\"]')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n",
+                    "stack": "Error: locator.setInputFiles: Target page, context or browser has been closed\nCall log:\n  \u001b[2m- waiting for locator('//input[@type=\"file\"]')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\n    at LevelUpPage.uploadFileToLevelUp (/Users/shrkuang/Playwright-TS-JS/playwright/resources/pageobjects/LevelUpPage.ts:42:9)\n    at /Users/shrkuang/Playwright-TS-JS/playwright/tests/upload.test.ts:16:5",
+                    "location": {
+                      "file": "/Users/shrkuang/Playwright-TS-JS/playwright/resources/pageobjects/LevelUpPage.ts",
+                      "column": 9,
+                      "line": 42
+                    },
+                    "snippet": "\u001b[90m   at \u001b[39mplaywright/resources/pageobjects/LevelUpPage.ts:42\n\n\u001b[0m \u001b[90m 40 |\u001b[39m     \u001b[36masync\u001b[39m uploadFileToLevelUp(){\u001b[0m\n\u001b[0m \u001b[90m 41 |\u001b[39m         \u001b[36mconst\u001b[39m pathFile \u001b[33m=\u001b[39m \u001b[32m'../img/testCoders.png'\u001b[39m\u001b[0m\n\u001b[0m\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 42 |\u001b[39m         \u001b[36mawait\u001b[39m \u001b[36mthis\u001b[39m\u001b[33m.\u001b[39m\u001b[33mUploadFileButton\u001b[39m\u001b[33m.\u001b[39msetInputFiles(pathFile)\u001b[33m;\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m    |\u001b[39m         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 43 |\u001b[39m     }\u001b[0m\n\u001b[0m \u001b[90m 44 |\u001b[39m }\u001b[0m\n\u001b[0m \u001b[90m 45 |\u001b[39m\u001b[0m"
+                  },
+                  "errors": [
+                    {
+                      "location": {
+                        "file": "/Users/shrkuang/Playwright-TS-JS/playwright/resources/pageobjects/LevelUpPage.ts",
+                        "column": 9,
+                        "line": 42
+                      },
+                      "message": "Error: locator.setInputFiles: Target page, context or browser has been closed\nCall log:\n  \u001b[2m- waiting for locator('//input[@type=\"file\"]')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\n\n\u001b[90m   at \u001b[39mplaywright/resources/pageobjects/LevelUpPage.ts:42\n\n\u001b[0m \u001b[90m 40 |\u001b[39m     \u001b[36masync\u001b[39m uploadFileToLevelUp(){\u001b[0m\n\u001b[0m \u001b[90m 41 |\u001b[39m         \u001b[36mconst\u001b[39m pathFile \u001b[33m=\u001b[39m \u001b[32m'../img/testCoders.png'\u001b[39m\u001b[0m\n\u001b[0m\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 42 |\u001b[39m         \u001b[36mawait\u001b[39m \u001b[36mthis\u001b[39m\u001b[33m.\u001b[39m\u001b[33mUploadFileButton\u001b[39m\u001b[33m.\u001b[39msetInputFiles(pathFile)\u001b[33m;\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m    |\u001b[39m         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 43 |\u001b[39m     }\u001b[0m\n\u001b[0m \u001b[90m 44 |\u001b[39m }\u001b[0m\n\u001b[0m \u001b[90m 45 |\u001b[39m\u001b[0m\n\n\u001b[2m    at LevelUpPage.uploadFileToLevelUp (/Users/shrkuang/Playwright-TS-JS/playwright/resources/pageobjects/LevelUpPage.ts:42:9)\u001b[22m\n\u001b[2m    at /Users/shrkuang/Playwright-TS-JS/playwright/tests/upload.test.ts:16:5\u001b[22m"
+                    }
+                  ],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2024-04-04T09:13:05.794Z",
+                  "attachments": [
+                    {
+                      "name": "video",
+                      "contentType": "video/webm",
+                      "path": "/Users/shrkuang/Playwright-TS-JS/test-results/playwright-tests-upload-Upload-File-to-level-up-firefox/video.webm"
+                    }
+                  ],
+                  "errorLocation": {
+                    "file": "/Users/shrkuang/Playwright-TS-JS/playwright/resources/pageobjects/LevelUpPage.ts",
+                    "column": 9,
+                    "line": 42
+                  }
+                },
+                {
+                  "workerIndex": 9,
+                  "status": "failed",
+                  "duration": 6927,
+                  "error": {
+                    "message": "Error: locator.setInputFiles: Target page, context or browser has been closed\nCall log:\n  \u001b[2m- waiting for locator('//input[@type=\"file\"]')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n",
+                    "stack": "Error: locator.setInputFiles: Target page, context or browser has been closed\nCall log:\n  \u001b[2m- waiting for locator('//input[@type=\"file\"]')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\n    at LevelUpPage.uploadFileToLevelUp (/Users/shrkuang/Playwright-TS-JS/playwright/resources/pageobjects/LevelUpPage.ts:42:9)\n    at /Users/shrkuang/Playwright-TS-JS/playwright/tests/upload.test.ts:16:5",
+                    "location": {
+                      "file": "/Users/shrkuang/Playwright-TS-JS/playwright/resources/pageobjects/LevelUpPage.ts",
+                      "column": 9,
+                      "line": 42
+                    },
+                    "snippet": "\u001b[90m   at \u001b[39mplaywright/resources/pageobjects/LevelUpPage.ts:42\n\n\u001b[0m \u001b[90m 40 |\u001b[39m     \u001b[36masync\u001b[39m uploadFileToLevelUp(){\u001b[0m\n\u001b[0m \u001b[90m 41 |\u001b[39m         \u001b[36mconst\u001b[39m pathFile \u001b[33m=\u001b[39m \u001b[32m'../img/testCoders.png'\u001b[39m\u001b[0m\n\u001b[0m\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 42 |\u001b[39m         \u001b[36mawait\u001b[39m \u001b[36mthis\u001b[39m\u001b[33m.\u001b[39m\u001b[33mUploadFileButton\u001b[39m\u001b[33m.\u001b[39msetInputFiles(pathFile)\u001b[33m;\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m    |\u001b[39m         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 43 |\u001b[39m     }\u001b[0m\n\u001b[0m \u001b[90m 44 |\u001b[39m }\u001b[0m\n\u001b[0m \u001b[90m 45 |\u001b[39m\u001b[0m"
+                  },
+                  "errors": [
+                    {
+                      "location": {
+                        "file": "/Users/shrkuang/Playwright-TS-JS/playwright/resources/pageobjects/LevelUpPage.ts",
+                        "column": 9,
+                        "line": 42
+                      },
+                      "message": "Error: locator.setInputFiles: Target page, context or browser has been closed\nCall log:\n  \u001b[2m- waiting for locator('//input[@type=\"file\"]')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\n\n\u001b[90m   at \u001b[39mplaywright/resources/pageobjects/LevelUpPage.ts:42\n\n\u001b[0m \u001b[90m 40 |\u001b[39m     \u001b[36masync\u001b[39m uploadFileToLevelUp(){\u001b[0m\n\u001b[0m \u001b[90m 41 |\u001b[39m         \u001b[36mconst\u001b[39m pathFile \u001b[33m=\u001b[39m \u001b[32m'../img/testCoders.png'\u001b[39m\u001b[0m\n\u001b[0m\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 42 |\u001b[39m         \u001b[36mawait\u001b[39m \u001b[36mthis\u001b[39m\u001b[33m.\u001b[39m\u001b[33mUploadFileButton\u001b[39m\u001b[33m.\u001b[39msetInputFiles(pathFile)\u001b[33m;\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m    |\u001b[39m         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 43 |\u001b[39m     }\u001b[0m\n\u001b[0m \u001b[90m 44 |\u001b[39m }\u001b[0m\n\u001b[0m \u001b[90m 45 |\u001b[39m\u001b[0m\n\n\u001b[2m    at LevelUpPage.uploadFileToLevelUp (/Users/shrkuang/Playwright-TS-JS/playwright/resources/pageobjects/LevelUpPage.ts:42:9)\u001b[22m\n\u001b[2m    at /Users/shrkuang/Playwright-TS-JS/playwright/tests/upload.test.ts:16:5\u001b[22m"
+                    }
+                  ],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 1,
+                  "startTime": "2024-04-04T09:13:17.007Z",
+                  "attachments": [
+                    {
+                      "name": "video",
+                      "contentType": "video/webm",
+                      "path": "/Users/shrkuang/Playwright-TS-JS/test-results/playwright-tests-upload-Upload-File-to-level-up-firefox-retry1/video.webm"
+                    }
+                  ],
+                  "errorLocation": {
+                    "file": "/Users/shrkuang/Playwright-TS-JS/playwright/resources/pageobjects/LevelUpPage.ts",
+                    "column": 9,
+                    "line": 42
+                  }
+                },
+                {
+                  "workerIndex": 10,
+                  "status": "failed",
+                  "duration": 8194,
+                  "error": {
+                    "message": "Error: locator.setInputFiles: Target page, context or browser has been closed\nCall log:\n  \u001b[2m- waiting for locator('//input[@type=\"file\"]')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n",
+                    "stack": "Error: locator.setInputFiles: Target page, context or browser has been closed\nCall log:\n  \u001b[2m- waiting for locator('//input[@type=\"file\"]')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\n    at LevelUpPage.uploadFileToLevelUp (/Users/shrkuang/Playwright-TS-JS/playwright/resources/pageobjects/LevelUpPage.ts:42:9)\n    at /Users/shrkuang/Playwright-TS-JS/playwright/tests/upload.test.ts:16:5",
+                    "location": {
+                      "file": "/Users/shrkuang/Playwright-TS-JS/playwright/resources/pageobjects/LevelUpPage.ts",
+                      "column": 9,
+                      "line": 42
+                    },
+                    "snippet": "\u001b[90m   at \u001b[39mplaywright/resources/pageobjects/LevelUpPage.ts:42\n\n\u001b[0m \u001b[90m 40 |\u001b[39m     \u001b[36masync\u001b[39m uploadFileToLevelUp(){\u001b[0m\n\u001b[0m \u001b[90m 41 |\u001b[39m         \u001b[36mconst\u001b[39m pathFile \u001b[33m=\u001b[39m \u001b[32m'../img/testCoders.png'\u001b[39m\u001b[0m\n\u001b[0m\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 42 |\u001b[39m         \u001b[36mawait\u001b[39m \u001b[36mthis\u001b[39m\u001b[33m.\u001b[39m\u001b[33mUploadFileButton\u001b[39m\u001b[33m.\u001b[39msetInputFiles(pathFile)\u001b[33m;\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m    |\u001b[39m         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 43 |\u001b[39m     }\u001b[0m\n\u001b[0m \u001b[90m 44 |\u001b[39m }\u001b[0m\n\u001b[0m \u001b[90m 45 |\u001b[39m\u001b[0m"
+                  },
+                  "errors": [
+                    {
+                      "location": {
+                        "file": "/Users/shrkuang/Playwright-TS-JS/playwright/resources/pageobjects/LevelUpPage.ts",
+                        "column": 9,
+                        "line": 42
+                      },
+                      "message": "Error: locator.setInputFiles: Target page, context or browser has been closed\nCall log:\n  \u001b[2m- waiting for locator('//input[@type=\"file\"]')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  - waiting for locator(':scope')\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\u001b[2m  -   locator resolved to <input value=\"\" type=\"file\" class=\"flex h-10 rounded-md…/>\u001b[22m\n\n\n\u001b[90m   at \u001b[39mplaywright/resources/pageobjects/LevelUpPage.ts:42\n\n\u001b[0m \u001b[90m 40 |\u001b[39m     \u001b[36masync\u001b[39m uploadFileToLevelUp(){\u001b[0m\n\u001b[0m \u001b[90m 41 |\u001b[39m         \u001b[36mconst\u001b[39m pathFile \u001b[33m=\u001b[39m \u001b[32m'../img/testCoders.png'\u001b[39m\u001b[0m\n\u001b[0m\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 42 |\u001b[39m         \u001b[36mawait\u001b[39m \u001b[36mthis\u001b[39m\u001b[33m.\u001b[39m\u001b[33mUploadFileButton\u001b[39m\u001b[33m.\u001b[39msetInputFiles(pathFile)\u001b[33m;\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m    |\u001b[39m         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 43 |\u001b[39m     }\u001b[0m\n\u001b[0m \u001b[90m 44 |\u001b[39m }\u001b[0m\n\u001b[0m \u001b[90m 45 |\u001b[39m\u001b[0m\n\n\u001b[2m    at LevelUpPage.uploadFileToLevelUp (/Users/shrkuang/Playwright-TS-JS/playwright/resources/pageobjects/LevelUpPage.ts:42:9)\u001b[22m\n\u001b[2m    at /Users/shrkuang/Playwright-TS-JS/playwright/tests/upload.test.ts:16:5\u001b[22m"
+                    }
+                  ],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 2,
+                  "startTime": "2024-04-04T09:13:24.647Z",
+                  "attachments": [
+                    {
+                      "name": "video",
+                      "contentType": "video/webm",
+                      "path": "/Users/shrkuang/Playwright-TS-JS/test-results/playwright-tests-upload-Upload-File-to-level-up-firefox-retry2/video.webm"
+                    }
+                  ],
+                  "errorLocation": {
+                    "file": "/Users/shrkuang/Playwright-TS-JS/playwright/resources/pageobjects/LevelUpPage.ts",
+                    "column": 9,
+                    "line": 42
+                  }
+                }
+              ],
+              "status": "unexpected"
+            }
+          ],
+          "id": "d233c15634461c94caf8-52364d61743f68c932d2",
+          "file": "playwright/tests/upload.test.ts",
+          "line": 7,
+          "column": 5
+        }
+      ]
     }
   ],
   "errors": [],
   "stats": {
-    "startTime": "2024-04-03T12:57:48.697Z",
-    "duration": 8675.895999999999,
-    "expected": 38,
+    "startTime": "2024-04-04T09:13:03.327Z",
+    "duration": 30106.832,
+    "expected": 39,
     "skipped": 0,
-    "unexpected": 0,
+    "unexpected": 1,
     "flaky": 0
   }
 }
