@@ -1,5 +1,5 @@
 import { test , expect } from '../resources/config/fixtures';
-import { levelUpMessage } from '../resources/enums/levelUpMessages';
+import { levelUpMessage, LeveledUpParagraphText } from '../resources/enums/levelUpMessages';
 
 
 const charName = ' 123 Test ';
@@ -17,7 +17,9 @@ test("Click 5 times to level up", async ({ page, homepage, playpage, levelup}) =
 
     await levelup.clickButtonToLevelUp(5);
     await expect(levelup.clickItButton).toBeDisabled();
-    await expect(levelup.clickItLeveledUpMessage.textContent()).resolves.toBe(levelUpMessage.clickButton);
+    await expect(levelup.clickItLeveledUpMessage.textContent()).resolves.toBe(levelUpMessage.clickIt);
+    await expect(levelup.leveledUpParagraph.textContent()).resolves.toBe(LeveledUpParagraphText(2, build.toLowerCase()));
+
     
 })
 
@@ -33,6 +35,8 @@ test("Click 4 times and no level up", async ({ page, homepage, playpage, levelup
     await levelup.clickButtonToLevelUp(4);
     await expect(levelup.clickItButton).toBeEnabled();
     await expect(levelup.clickItLeveledUpMessage).not.toBeVisible();
+    await expect(levelup.leveledUpParagraph.textContent()).resolves.toBe(LeveledUpParagraphText(1, build.toLowerCase()));
+
     
 })
 

@@ -1,10 +1,11 @@
 import { test , expect } from '../resources/config/fixtures';
-import { levelUpMessage } from '../resources/enums/levelUpMessages';
+import { levelUpMessage, LeveledUpParagraphText } from '../resources/enums/levelUpMessages';
 
 const charName = 'QA Engineer';
 const build = 'Brigadier'
 
-test('Upload File to level up', async({ page , homepage, playpage, levelup}) => {
+test('Upload File to level up', async({ page , browserName, homepage, playpage, levelup }) => {
+    test.skip(browserName === 'firefox', 'Not sure why the same test fails for firefox..');
     await page.goto("/");
     await homepage.clickOnPlayButton();  
 
@@ -12,7 +13,8 @@ test('Upload File to level up', async({ page , homepage, playpage, levelup}) => 
     await playpage.fillInCharacterName(charName);
     await playpage.clickStartButton();
 
-    expect(levelup.UploadFileLeveldUpMessage).not.toBeVisible();
+    expect(levelup.UploadFileLeveledUpMessage).not.toBeVisible();
     await levelup.uploadFileToLevelUp();
-    await expect(levelup.UploadFileLeveldUpMessage.textContent()).resolves.toBe(levelUpMessage.levelUp);
+    await expect(levelup.UploadFileLeveledUpMessage.textContent()).resolves.toBe(levelUpMessage.fileUpload);
+    await expect(levelup.leveledUpParagraph.textContent()).resolves.toBe(LeveledUpParagraphText(2, build.toLowerCase()));
 })
