@@ -21,10 +21,12 @@ test('Reaching max stats with cheatcode with level 2', async({ page, homepage, p
 
     await levelup.typeToLevelUp(cheatCode);
     await expect(levelup.leveledUpParagraph).toHaveText(LeveledUpParagraphText(1, build.toLowerCase()));
+    await expect(page).toHaveScreenshot('thief_level1_build.png');
 
     await levelup.clickButtonToLevelUp(5)
     await expect(levelup.clickItLeveledUpMessage).toHaveText(levelUpMessage.clickIt);
     await expect(levelup.leveledUpParagraph).toHaveText(LeveledUpParagraphText(2, build.toLowerCase()));
+    await expect(page).toHaveScreenshot('thief_level2_max_build.png');
     
     for (const [index, stat] of stats.entries()){
         const statSkill = levelup.stats.nth(index).locator('label');
