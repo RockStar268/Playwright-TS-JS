@@ -18,8 +18,8 @@ for (const input of textInput){
         switch (input){
             case 'Lorem Ipsum':
                 expect(levelup.LoremIpsumLeveledUpMessage).toBeVisible();
-                await expect(levelup.LoremIpsumLeveledUpMessage.textContent()).resolves.toBe(levelUpMessage.typeIt);
-                await expect(levelup.leveledUpParagraph.textContent()).resolves.toBe(LeveledUpParagraphText(2, build.toLowerCase()));
+                await expect(levelup.LoremIpsumLeveledUpMessage).toHaveText(levelUpMessage.typeIt);
+                await expect(levelup.leveledUpParagraph).toHaveText(LeveledUpParagraphText(2, build.toLowerCase()));
                 break;
             default:
                 expect(levelup.LoremIpsumLeveledUpMessage).not.toBeVisible();

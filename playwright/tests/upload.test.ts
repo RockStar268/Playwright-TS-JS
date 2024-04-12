@@ -15,6 +15,6 @@ test('Upload File to level up', async({ page , browserName, homepage, playpage, 
 
     expect(levelup.UploadFileLeveledUpMessage).not.toBeVisible();
     await levelup.uploadFileToLevelUp();
-    await expect(levelup.UploadFileLeveledUpMessage.textContent()).resolves.toBe(levelUpMessage.fileUpload);
-    await expect(levelup.leveledUpParagraph.textContent()).resolves.toBe(LeveledUpParagraphText(2, build.toLowerCase()));
+    await expect(levelup.UploadFileLeveledUpMessage).toHaveText(levelUpMessage.fileUpload);
+    await expect(levelup.leveledUpParagraph).toHaveText(LeveledUpParagraphText(2, build.toLowerCase()));
 })

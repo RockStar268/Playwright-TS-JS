@@ -17,8 +17,8 @@ test("Click 5 times to level up", async ({ page, homepage, playpage, levelup}) =
 
     await levelup.clickButtonToLevelUp(5);
     await expect(levelup.clickItButton).toBeDisabled();
-    await expect(levelup.clickItLeveledUpMessage.textContent()).resolves.toBe(levelUpMessage.clickIt);
-    await expect(levelup.leveledUpParagraph.textContent()).resolves.toBe(LeveledUpParagraphText(2, build.toLowerCase()));
+    await expect(levelup.clickItLeveledUpMessage).toHaveText(levelUpMessage.clickIt);
+    await expect(levelup.leveledUpParagraph).toHaveText(LeveledUpParagraphText(2, build.toLowerCase()));
 
     
 })
@@ -35,7 +35,7 @@ test("Click 4 times and no level up", async ({ page, homepage, playpage, levelup
     await levelup.clickButtonToLevelUp(4);
     await expect(levelup.clickItButton).toBeEnabled();
     await expect(levelup.clickItLeveledUpMessage).not.toBeVisible();
-    await expect(levelup.leveledUpParagraph.textContent()).resolves.toBe(LeveledUpParagraphText(1, build.toLowerCase()));
+    await expect(levelup.leveledUpParagraph).toHaveText(LeveledUpParagraphText(1, build.toLowerCase()));
 
     
 })

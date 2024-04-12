@@ -19,6 +19,9 @@ export class LevelUpPage{
     readonly LoremIpsumInputField : Locator;
     readonly LoremIpsumLeveledUpMessage : Locator;
 
+    // slide to level up
+    readonly Slider : Locator;
+    readonly SliderLeveledUpMessage : Locator;
 
     constructor( page: Page){
         this.page = page;
@@ -34,7 +37,11 @@ export class LevelUpPage{
 
         // type to level up
         this.LoremIpsumInputField = page.locator('//section[@data-testid="adventure-typer"]/div[2]/input');
-        this.LoremIpsumLeveledUpMessage = page.locator('//span[@data-task="typer"]')
+        this.LoremIpsumLeveledUpMessage = page.locator('//span[@data-task="typer"]');
+
+        // slide to level up
+        this.Slider = page.locator('//span[@role="slider"]');
+        this.SliderLeveledUpMessage = page.locator('//span[@data-task="slider"]')
     }
 
     async clickButtonToLevelUp(timesClicking: number){
@@ -46,7 +53,7 @@ export class LevelUpPage{
                 for(let i=timesClicking; i>0; i--){
                     await expect(this.clickItButton).toBeEnabled()
                     await this.clickItButton.click();
-            }};
+            }}
     }}
 
 
@@ -58,5 +65,9 @@ export class LevelUpPage{
 
     async typeToLevelUp(inputText: string){
         await this.LoremIpsumInputField.fill(inputText);
+    }
+
+    async slideToLevelUp(element : Locator){
+        await this.Slider.dragTo(element);
     }
 }
