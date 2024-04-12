@@ -12,16 +12,20 @@ export class LevelUpPage{
     readonly clickItLeveledUpMessage : Locator; 
 
     // upload to level up
-    readonly UploadFileButton : Locator;
-    readonly UploadFileLeveledUpMessage : Locator;
+    readonly uploadFileButton : Locator;
+    readonly uploadFileLeveledUpMessage : Locator;
 
     // type to level up
-    readonly LoremIpsumInputField : Locator;
-    readonly LoremIpsumLeveledUpMessage : Locator;
+    readonly loremIpsumInputField : Locator;
+    readonly loremIpsumLeveledUpMessage : Locator;
 
     // slide to level up
-    readonly Slider : Locator;
-    readonly SliderLeveledUpMessage : Locator;
+    readonly slider : Locator;
+    readonly sliderLeveledUpMessage : Locator;
+
+    // stats elements
+    readonly stats : Locator;
+
 
     constructor( page: Page){
         this.page = page;
@@ -32,16 +36,19 @@ export class LevelUpPage{
         this.clickItLeveledUpMessage = page.locator('//span[@data-task="clicker"]');
 
         // upload to level up
-        this.UploadFileButton = page.locator('//input[@type="file"]');
-        this.UploadFileLeveledUpMessage = page.locator('//span[@data-task="uploader"]');
+        this.uploadFileButton = page.locator('//input[@type="file"]');
+        this.uploadFileLeveledUpMessage = page.locator('//span[@data-task="uploader"]');
 
         // type to level up
-        this.LoremIpsumInputField = page.locator('//section[@data-testid="adventure-typer"]/div[2]/input');
-        this.LoremIpsumLeveledUpMessage = page.locator('//span[@data-task="typer"]');
+        this.loremIpsumInputField = page.locator('//section[@data-testid="adventure-typer"]/div[2]/input');
+        this.loremIpsumLeveledUpMessage = page.locator('//span[@data-task="typer"]');
 
         // slide to level up
-        this.Slider = page.locator('//span[@role="slider"]');
-        this.SliderLeveledUpMessage = page.locator('//span[@data-task="slider"]')
+        this.slider = page.locator('//span[@role="slider"]');
+        this.sliderLeveledUpMessage = page.locator('//span[@data-task="slider"]')
+
+        // stats
+        this.stats = page.locator('//section[@data-testid="character-stats"]/div')
     }
 
     async clickButtonToLevelUp(timesClicking: number){
@@ -59,15 +66,15 @@ export class LevelUpPage{
 
     async uploadFileToLevelUp(){
         const pathFile = '../img/testCoders.png'
-        await this.UploadFileButton.setInputFiles(pathFile);
+        await this.uploadFileButton.setInputFiles(pathFile);
     }
 
 
     async typeToLevelUp(inputText: string){
-        await this.LoremIpsumInputField.fill(inputText);
+        await this.loremIpsumInputField.fill(inputText);
     }
 
     async slideToLevelUp(element : Locator){
-        await this.Slider.dragTo(element);
+        await this.slider.dragTo(element);
     }
 }

@@ -73,13 +73,13 @@
   },
   "suites": [
     {
-      "title": "playwright/tests/slideIt.test.ts",
-      "file": "playwright/tests/slideIt.test.ts",
+      "title": "playwright/tests/maxStatsCheat.test.ts",
+      "file": "playwright/tests/maxStatsCheat.test.ts",
       "column": 0,
       "line": 0,
       "specs": [
         {
-          "title": "Move slider to max to level up",
+          "title": "Reaching max stats with cheatcode with level 2",
           "ok": true,
           "tags": [],
           "tests": [
@@ -93,21 +93,21 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 654,
+                  "duration": 767,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-04-12T09:47:18.388Z",
+                  "startTime": "2024-04-12T11:54:03.131Z",
                   "attachments": []
                 }
               ],
               "status": "expected"
             }
           ],
-          "id": "369c8be334f1c4b3b023-7e216cbe5a968b51ceac",
-          "file": "playwright/tests/slideIt.test.ts",
-          "line": 7,
+          "id": "7ef9765e46a9a71009f4-9e7df42b048811cbaf08",
+          "file": "playwright/tests/maxStatsCheat.test.ts",
+          "line": 14,
           "column": 5
         }
       ]
@@ -115,8 +115,8 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2024-04-12T09:47:18.238Z",
-    "duration": 936.3359999999999,
+    "startTime": "2024-04-12T11:54:02.982Z",
+    "duration": 1110.1109999999999,
     "expected": 1,
     "skipped": 0,
     "unexpected": 0,

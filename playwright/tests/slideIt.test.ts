@@ -13,11 +13,11 @@ test('Move slider to max to level up', async({ page, homepage, playpage, levelup
     await playpage.selectBuild(build);
     await playpage.fillInCharacterName(charName);
     await playpage.clickStartButton();
-    await expect(levelup.Slider).not.toHaveAttribute('aria-valuenow="0"');
+    await expect(levelup.slider).not.toHaveAttribute('aria-valuenow="0"');
     await levelup.slideToLevelUp(slideTo100);
 
-    await expect(levelup.SliderLeveledUpMessage).toHaveText(levelUpMessage.slideIt);
-    await expect(levelup.Slider).toHaveAttribute('aria-valuenow', '100');
-    await expect(levelup.Slider).toHaveAttribute('data-disabled');
+    await expect(levelup.sliderLeveledUpMessage).toHaveText(levelUpMessage.slideIt);
+    await expect(levelup.slider).toHaveAttribute('aria-valuenow', '100');
+    await expect(levelup.slider).toHaveAttribute('data-disabled');
     await expect(levelup.leveledUpParagraph).toHaveText(LeveledUpParagraphText(2, build.toLowerCase()));
 })

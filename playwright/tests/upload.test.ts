@@ -13,8 +13,8 @@ test('Upload File to level up', async({ page , browserName, homepage, playpage, 
     await playpage.fillInCharacterName(charName);
     await playpage.clickStartButton();
 
-    expect(levelup.UploadFileLeveledUpMessage).not.toBeVisible();
+    expect(levelup.uploadFileLeveledUpMessage).not.toBeVisible();
     await levelup.uploadFileToLevelUp();
-    await expect(levelup.UploadFileLeveledUpMessage).toHaveText(levelUpMessage.fileUpload);
+    await expect(levelup.uploadFileLeveledUpMessage).toHaveText(levelUpMessage.fileUpload);
     await expect(levelup.leveledUpParagraph).toHaveText(LeveledUpParagraphText(2, build.toLowerCase()));
 })

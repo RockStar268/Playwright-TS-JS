@@ -17,12 +17,12 @@ for (const input of textInput){
 
         switch (input){
             case 'Lorem Ipsum':
-                expect(levelup.LoremIpsumLeveledUpMessage).toBeVisible();
-                await expect(levelup.LoremIpsumLeveledUpMessage).toHaveText(levelUpMessage.typeIt);
+                expect(levelup.loremIpsumLeveledUpMessage).toBeVisible();
+                await expect(levelup.loremIpsumLeveledUpMessage).toHaveText(levelUpMessage.typeIt);
                 await expect(levelup.leveledUpParagraph).toHaveText(LeveledUpParagraphText(2, build.toLowerCase()));
                 break;
             default:
-                expect(levelup.LoremIpsumLeveledUpMessage).not.toBeVisible();
+                expect(levelup.loremIpsumLeveledUpMessage).not.toBeVisible();
                 break;
         }
     });
