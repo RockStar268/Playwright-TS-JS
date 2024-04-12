@@ -11,7 +11,7 @@ const stats = [
     { skill : 'Magic', value: "10" },
 ]
 
-test('Reaching max stats with cheatcode with level 2', async({ page, homepage, playpage, levelup})=> {
+test('Reaching max stats with cheatcode with level 2', async({ page, homepage, playpage, levelup })=> {
     await page.goto("/");
     await homepage.clickOnPlayButton();  
 
