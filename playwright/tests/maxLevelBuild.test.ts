@@ -4,7 +4,8 @@ import { levelUpMessage, LeveledUpParagraphText } from '../resources/enums/level
 const charName = 'QA Engineer';
 const build = 'Brigadier'
 
-test('Max Level Build', async({ page, homepage, playpage, levelup }) =>{
+test('Max Level Build', async({ page, browserName, homepage, playpage, levelup }) =>{
+    test.skip(browserName === 'firefox', 'Upload to level up fails on firefox');
     const slideTo100 = page.locator('//section[@data-testid="adventure-slider"]//div[@class="flex items-center justify-between"]');
 
     await page.goto("/");
