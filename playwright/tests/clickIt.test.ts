@@ -5,8 +5,6 @@ const build = 'Mage'
 
 test.beforeEach(async ({ page, homepage, playpage }) => {
     const charName = ' 123 Test ';
-
-    // Runs before each test and signs in each page.
     await page.goto("/");
     await homepage.clickOnPlayButton();  
 
@@ -16,14 +14,6 @@ test.beforeEach(async ({ page, homepage, playpage }) => {
   });
 
 test("Click 5 times to level up", async ({ page, homepage, playpage, levelup}) =>{
-
-    // await page.goto("/");
-    // await homepage.clickOnPlayButton();  
-
-    // await playpage.selectBuild(build);
-    // await playpage.fillInCharacterName(charName);
-    // await playpage.clickStartButton();
-
     await levelup.clickButtonToLevelUp(5);
     await expect(levelup.clickItButton).toBeDisabled();
     await expect(levelup.clickItLeveledUpMessage).toHaveText(levelUpMessage.clickIt);
@@ -34,13 +24,6 @@ test("Click 5 times to level up", async ({ page, homepage, playpage, levelup}) =
 
 
 test("Click 4 times and no level up", async ({ page, homepage, playpage, levelup}) =>{
-    // await page.goto("/");
-    // await homepage.clickOnPlayButton();  
-
-    // await playpage.selectBuild(build);
-    // await playpage.fillInCharacterName(charName);
-    // await playpage.clickStartButton();
-
     await levelup.clickButtonToLevelUp(4);
     await expect(levelup.clickItButton).toBeEnabled();
     await expect(levelup.clickItLeveledUpMessage).not.toBeVisible();
@@ -51,12 +34,6 @@ test("Click 4 times and no level up", async ({ page, homepage, playpage, levelup
 
 
 test("Click 6 times, out of bound", async ({ page, homepage, playpage, levelup}) =>{
-    // await page.goto("/");
-    // await homepage.clickOnPlayButton();  
-    // await playpage.selectBuild(build);
-    // await playpage.fillInCharacterName(charName);
-    // await playpage.clickStartButton();
-
     const clickFunction = async () => {
         await levelup.clickButtonToLevelUp(6);
     };
